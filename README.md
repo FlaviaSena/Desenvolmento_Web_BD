@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)]
 # Banco de dados elaborado para atender as seguintes perguntas:
 
 ⇨ Quais os nomes dos episódios que tem  avaliações acima de 9.9 ?
