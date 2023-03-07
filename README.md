@@ -10,7 +10,7 @@
 
 ⇨ Qual foi a maior avaliação de usuário?
 
-## Mapa conceitual elaborado no BrModeloWeb
+## Modelo Conceitual: 
 ![image](https://github.com/FlaviaSena/Banco_Dados_M4_Desenvolmento_Web/blob/main/Tabela_conceitual.png)
-## Mapa conceitual
+## Modelo Lógico: 
 ![image](https://github.com/FlaviaSena/Banco_Dados_M4_Desenvolmento_Web/blob/main/Tabela_logica.png)
